@@ -17,3 +17,4 @@ Fonti definitive
 [Ufficio federale della statistica](https://www.bfs.admin.ch/bfs/it/home/statistiche/mobilita-trasporti/costi-finanziamento.assetdetail.28425328.html) |  Costi/investimenti mezzi di trasporto Svizzeri
 [Nucleo di Verifica e Controllo - NUVEC Area 3 “Monitoraggio dell’attuazione della politica di coesione e Sistema dei Conti Pubblici Territoriali” ](https://www.agenziacoesione.gov.it/wp-content/uploads/2021/12/Trasporti.pdf) | Costi/investimenti mezzi di trasporto Italia e regioni
 | [OpenData](https://www.dati.lombardia.it/Mobilit-e-trasporti/Frequentazione-delle-stazioni-del-servizio-ferrovi/ut63-s688/about_data) | Linee ferroviarie Lombardia |
+| [OpenRitardi](https://www.openritardi.org/index.html) | Ritardi dei treni in Italia |
