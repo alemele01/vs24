@@ -1,3 +1,4 @@
 .gitignore
 .venv
 path
+dataset/matrice_lombardia.csv
